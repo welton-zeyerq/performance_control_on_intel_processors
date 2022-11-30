@@ -1,11 +1,15 @@
 # performance_control_on_intel_processors
 performance control on intel processors
 
+how to use:
 
-work.py
+work.py powersave
 
-work.py
+work.py balanced
 
-work.py
+work.py performance
 
-work.py
+work.py extreme
+
+
+requirements: python3.11
