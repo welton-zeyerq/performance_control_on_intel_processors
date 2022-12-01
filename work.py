@@ -2,6 +2,9 @@
 import os
 import sys
 
+#author: welton-zeyerq
+#https://github.com/welton-zeyerq/
+
 def help_use():
     print("follow the examples: ")
     print("")
