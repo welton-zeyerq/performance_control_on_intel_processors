@@ -6,13 +6,13 @@ compatible with intel 2, 4, 6, 8, 12 or 16 cores
 
 how to use:
 
-work.py powersave
+./work.py powersave
 
-work.py balanced
+./work.py balanced
 
-work.py performance
+./work.py performance
 
-work.py extreme
+./work.py extreme
 
 
 requirements: python3.11
